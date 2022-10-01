@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ekonomska/static/css/main.0d5ee2b9.css",
-    "main.js": "/ekonomska/static/js/main.ab6ae67d.js",
+    "main.css": "/ekonomska/static/css/main.6200e0d3.css",
+    "main.js": "/ekonomska/static/js/main.ffbc4ff0.js",
     "static/media/video2.mp4": "/ekonomska/static/media/video2.cc9abaf0be7d01aa4359.mp4",
     "static/media/video.mp4": "/ekonomska/static/media/video.fb8e17f79670656eb550.mp4",
     "static/media/fa-solid-900.svg": "/ekonomska/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
@@ -27,11 +27,11 @@
     "static/media/historija3.jpg": "/ekonomska/static/media/historija3.f057b8ba960a7ad9e288.jpg",
     "static/media/historija4.jpg": "/ekonomska/static/media/historija4.b5c0bf330ff8ce0cad19.jpg",
     "index.html": "/ekonomska/index.html",
-    "main.0d5ee2b9.css.map": "/ekonomska/static/css/main.0d5ee2b9.css.map",
-    "main.ab6ae67d.js.map": "/ekonomska/static/js/main.ab6ae67d.js.map"
+    "main.6200e0d3.css.map": "/ekonomska/static/css/main.6200e0d3.css.map",
+    "main.ffbc4ff0.js.map": "/ekonomska/static/js/main.ffbc4ff0.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d5ee2b9.css",
-    "static/js/main.ab6ae67d.js"
+    "static/css/main.6200e0d3.css",
+    "static/js/main.ffbc4ff0.js"
   ]
 }
