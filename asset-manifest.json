@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ekonomska/static/css/main.d369172c.css",
-    "main.js": "/ekonomska/static/js/main.ac20d128.js",
+    "main.js": "/ekonomska/static/js/main.41382e63.js",
     "static/media/video.mp4": "/ekonomska/static/media/video.fb8e17f79670656eb550.mp4",
     "static/media/skola.gif": "/ekonomska/static/media/skola.533571e0bdc57ccaf040.gif",
     "static/media/fa-solid-900.svg": "/ekonomska/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
@@ -13,12 +13,13 @@
     "static/media/fa-regular-400.svg": "/ekonomska/static/media/fa-regular-400.19e27d348fefc21941e0.svg",
     "static/media/fa-brands-400.eot": "/ekonomska/static/media/fa-brands-400.89a52ae1d02b86d61439.eot",
     "static/media/fa-brands-400.ttf": "/ekonomska/static/media/fa-brands-400.9e138496e8f1719c6ebf.ttf",
+    "static/media/pozadina.jpg": "/ekonomska/static/media/pozadina.7afa92a9b43af6b3713d.jpg",
     "static/media/biblioteka.jpg": "/ekonomska/static/media/biblioteka.a643cfde2b7c76793480.jpg",
     "static/media/fa-solid-900.woff": "/ekonomska/static/media/fa-solid-900.c6ec080084769a6d8a34.woff",
     "static/media/fa-brands-400.woff": "/ekonomska/static/media/fa-brands-400.329a95a9172fdb2cccb4.woff",
     "static/media/fa-solid-900.woff2": "/ekonomska/static/media/fa-solid-900.ada6e6df937f7e5e8b79.woff2",
     "static/media/fa-brands-400.woff2": "/ekonomska/static/media/fa-brands-400.c1210e5ebe4344da5083.woff2",
-    "static/media/direktorica.jpg": "/ekonomska/static/media/direktorica.20dfee5abf3913012ede.jpg",
+    "static/media/direktorica.jpg": "/ekonomska/static/media/direktorica.f4872538bd7768f5c949.jpg",
     "static/media/fa-regular-400.eot": "/ekonomska/static/media/fa-regular-400.4079ae2d2a15d0689568.eot",
     "static/media/fa-regular-400.ttf": "/ekonomska/static/media/fa-regular-400.1017bce89c72f95bcf8e.ttf",
     "static/media/logo.jpg": "/ekonomska/static/media/logo.5f695801d1afba7b1a7f.jpg",
@@ -28,10 +29,10 @@
     "static/media/historija4.jpg": "/ekonomska/static/media/historija4.b5c0bf330ff8ce0cad19.jpg",
     "index.html": "/ekonomska/index.html",
     "main.d369172c.css.map": "/ekonomska/static/css/main.d369172c.css.map",
-    "main.ac20d128.js.map": "/ekonomska/static/js/main.ac20d128.js.map"
+    "main.41382e63.js.map": "/ekonomska/static/js/main.41382e63.js.map"
   },
   "entrypoints": [
     "static/css/main.d369172c.css",
-    "static/js/main.ac20d128.js"
+    "static/js/main.41382e63.js"
   ]
 }
