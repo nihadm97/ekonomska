@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/ekonomska/static/css/main.f6457be6.css",
-    "main.js": "/ekonomska/static/js/main.8d5f689e.js",
+    "main.js": "/ekonomska/static/js/main.966f76c0.js",
     "static/media/video.mp4": "/ekonomska/static/media/video.fb8e17f79670656eb550.mp4",
     "static/media/skola.gif": "/ekonomska/static/media/skola.533571e0bdc57ccaf040.gif",
     "static/media/fa-solid-900.svg": "/ekonomska/static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "/ekonomska/static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/fa-solid-900.eot": "/ekonomska/static/media/fa-solid-900.efbd5d20e407bbf85f2b.eot",
     "static/media/fa-solid-900.ttf": "/ekonomska/static/media/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
+    "static/media/zeleno.jpg": "/ekonomska/static/media/zeleno.d63af897355ef1d9a31c.jpg",
     "static/media/upis1.jpg": "/ekonomska/static/media/upis1.490e6fdf00289bde5e5b.jpg",
     "static/media/brošura.png": "/ekonomska/static/media/brošura.d5bb094ec769b41cb5c3.png",
     "static/media/fa-regular-400.svg": "/ekonomska/static/media/fa-regular-400.19e27d348fefc21941e0.svg",
@@ -29,10 +30,10 @@
     "static/media/historija4.jpg": "/ekonomska/static/media/historija4.b5c0bf330ff8ce0cad19.jpg",
     "index.html": "/ekonomska/index.html",
     "main.f6457be6.css.map": "/ekonomska/static/css/main.f6457be6.css.map",
-    "main.8d5f689e.js.map": "/ekonomska/static/js/main.8d5f689e.js.map"
+    "main.966f76c0.js.map": "/ekonomska/static/js/main.966f76c0.js.map"
   },
   "entrypoints": [
     "static/css/main.f6457be6.css",
-    "static/js/main.8d5f689e.js"
+    "static/js/main.966f76c0.js"
   ]
 }
